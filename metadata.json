@@ -1,0 +1,11 @@
+﻿{
+    "requestFramePermissions":  [
+
+                                ],
+    "majorCapabilities":  [
+                              "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+                          ],
+    "description":  "An arcade 2D fighting game featuring intense martial arts combat, special moves, combos, diverse arenas, and multiple game modes.",
+    "name":  "Iron Strike",
+    "aiStudioUrl":  "https://ai.studio/apps/45effe9f-8244-49d3-a401-e4a0e09f9e90"
+}
